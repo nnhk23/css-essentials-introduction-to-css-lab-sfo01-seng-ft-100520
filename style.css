@@ -12,11 +12,8 @@
       #main-header{
         font-size: 22px;
       }
-      .perspective-questions{
-        font-style: italic;
-      }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
-.perspective-questions {
-  /* Your code here! */
-}
+.perspective-questions{
+        font-style: italic;
+      }
